@@ -1,12 +1,12 @@
 # 🤖 Personal AI ChatBot
 
-A lightweight web-based personal assistant built with Flask and Google Gemini. The app provides a simple browser interface for asking general questions and summarizing email text.
+A lightweight web-based personal assistant built with Flask and Google Gemini. The app provides a simple browser interface for asking general questions and summarizing email text
 
 ## ✨ Features
 
-- **💬 Ask Anything:** Submit a question and receive a response from the AI assistant.
-- **✉️ Summarize Email:** Paste email text and get a concise summary intended to be 2–3 sentences.
-- **🎨 Responsive interface:** A straightforward HTML interface styled with CSS.
+- **💬 Ask Anything:** Submit a question and receive a response from the AI assistant
+- **✉️ Summarize Email:** Paste email text and get a concise summary intended to be 2–3 sentences
+- **🎨 Responsive interface:** A straightforward HTML interface styled with CSS
 
 ## 🧰 Tech stack
 
